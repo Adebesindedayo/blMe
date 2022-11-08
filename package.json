@@ -1,5 +1,5 @@
 {
-  "name": "blogMe",
+  "name": "blogMeAPI",
   "version": "1.0.0",
   "description": "Blog API",
   "main": "app.js",
