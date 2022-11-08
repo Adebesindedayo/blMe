@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adebesindedayo/blogMe.git"
+    "url": "git+https://github.com/Adebesindedayo/blogMeAPI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Adebesindedayo/blogMe/issues"
+    "url": "https://github.com/Adebesindedayo/blogMeAPI/issues"
   },
-  "homepage": "https://github.com/Adebesindedayo/blogMe#readme",
+  "homepage": "https://github.com/Adebesindedayo/blogMeAPI#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "crypto-js": "^4.1.1",
